@@ -1,0 +1,14 @@
+{
+  "name": "1ufabet.co",
+  "version": "1.0.0",
+  "description": "1Ufabet เว็บแทงบอลคุณภาพส่งตรงมาจากประเทศอังกฤษ สดทุกแมต แทงง่ายทุกคู่",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JeremyHeleine/language-mylanguage.git"
+  },
+  "license": "MIT"
+}
